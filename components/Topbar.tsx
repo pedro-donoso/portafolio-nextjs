@@ -8,7 +8,7 @@ const Topbar: React.FC = () => {
         <div className="space-x-4">
           <Link href="#perfil" className="text-white hover:text-yellow-500">Perfil</Link>
           <Link href="#experiencia" className="text-white hover:text-yellow-500">Experiencia</Link>
-          <Link href="#formacion" className="text-white hover:text-yellow-500">Formación</Link>
+          <Link href="#formacion" className="text-white hover:text-yellow-500">Certificados</Link>
           <Link href="#habilidades" className="text-white hover:text-yellow-500">Habilidades</Link>
           <Link href="#proyectos" className="text-white hover:text-yellow-500">Proyectos</Link>
 		</div>
