@@ -7,7 +7,7 @@ const Header: React.FC = () => {
    <h1 className="text-xl font-bold mb-2 text-center">
     PEDRO EDUARDO DONOSO RAMÍREZ
    </h1>
-   <p className="mt-2 text-center">
+   <p className="mt-2 text-center text-lg">
     Desarrollador Full Stack | 📱{" "}
     <a href="https://wa.me/56953968887" className="text-blue-800">
      +56 9 5396 8887
