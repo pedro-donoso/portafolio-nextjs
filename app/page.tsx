@@ -3,11 +3,11 @@ import React from 'react';
 const Home: React.FC = () => {
   return (
     <main className='px-16 py-10 max-w-4xl mx-auto bg-white rounded-lg shadow-md'>
-      <h1 className='text-2xl font-bold mb-2 text-center'>PEDRO EDUARDO DONOSO RAMÍREZ</h1>
+      <h1 className='text-xl font-bold mb-2 text-center'>PEDRO EDUARDO DONOSO RAMÍREZ</h1>
       <p className='mt-2 text-center'>Desarrollador Full Stack | +56 9 5396 8887 | <a href="mailto:pedro.eduardo.donoso@gmail.com" className='text-blue-800'>pedro.eduardo.donoso@gmail.com</a></p>
 
       <section className='mt-5' id='perfil'>
-        <h2 className='text-2xl font-bold mb-2'>Perfil Profesional</h2>
+        <h2 className='text-xl font-bold mb-2'>Perfil Profesional</h2>
         <p className='text-justify'>
           Desarrollador Full Stack con amplia experiencia en la creación y mantenimiento de aplicaciones web
           y móviles. Especializado en la optimización de sitios web y tiendas en línea, con sólidas habilidades
@@ -18,7 +18,7 @@ const Home: React.FC = () => {
       </section>
 
       <section className='mt-5' id='experiencia'>
-        <h2 className='text-2xl font-bold mb-2'>Experiencia Laboral</h2>
+        <h2 className='text-xl font-bold mb-2'>Experiencia Laboral</h2>
         <h3 className='mb-2 underline'>Desarrollador en <i>Agencia Amigo Pyme</i> (2022-2024)</h3>
         <ul className='list-disc list-inside ml-5 mb-5 text-justify'>
           <li>Desarrollo y mantenimiento de aplicaciones utilizando <strong>Kotlin Compose</strong> para asegurar un rendimiento óptimo y una experiencia de usuario fluida.</li>
@@ -46,7 +46,7 @@ const Home: React.FC = () => {
       </section>
 
       <section className='mt-5' id='formacion'>
-        <h2 className='text-2xl font-bold mb-2'>Formación</h2>
+        <h2 className='text-xl font-bold mb-2'>Formación</h2>
         <ul className='list-disc list-inside ml-5 mb-5 text-justify'>
           <li>Bootcamp Desarrollo de Apps Móviles Android - Talento Digital (2024)</li>
           <li>Bootcamp Desarrollo Ruby on Rails para Startups - Talento Digital (2023)</li>
@@ -56,7 +56,7 @@ const Home: React.FC = () => {
       </section>
 
       <section className='mt-5' id='habilidades'>
-        <h2 className='text-2xl font-bold mb-2'>Habilidades</h2>
+        <h2 className='text-xl font-bold mb-2'>Habilidades</h2>
         <h3>Lenguajes de Programación:</h3>
         <p className='list-disc list-inside ml-5 mb-5 text-justify'>Kotlin, Java, PHP, JavaScript, Ruby on Rails, Matlab</p>
         <h3>Desarrollo Frontend:</h3>
@@ -72,7 +72,7 @@ const Home: React.FC = () => {
       </section>
 
       <section className='mt-5' id='proyectos'>
-        <h2 className='text-2xl font-bold mb-2'>Proyectos Destacados</h2>
+        <h2 className='text-xl font-bold mb-2'>Proyectos Destacados</h2>
         <ul>
           <li>Repositorio de Códigos: <a href="https://github.com/pedro-donoso" target="_blank" className='text-blue-800 underline'>GitHub</a></li>
           <li>Portafolio de Proyectos: <a href="https://app.netlify.com/teams/pedro-donoso/sites" target="_blank" className='text-blue-800 underline'>Netlify</a></li>
@@ -80,7 +80,7 @@ const Home: React.FC = () => {
       </section>
 
       <section className='mt-5' id='redes'>
-        <h2 className='text-2xl font-bold mb-2'>Redes</h2>
+        <h2 className='text-xl font-bold mb-2'>Redes</h2>
         <p><a href="https://www.linkedin.com/in/pedro-donoso-frontend/" target="_blank" className='text-blue-800 underline'>LinkedIn</a></p>
       </section>
     </main>

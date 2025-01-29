@@ -3,8 +3,7 @@ import Link from 'next/link';
 const Topbar: React.FC = () => {
   return (
     <header className="bg-blue-800 shadow text-white">
-      <nav className="max-w-5xl mx-auto p-4 flex justify-between">
-        <div className="text-lg font-bold">Mi Portafolio</div>
+      <nav className="max-w-5xl mx-auto p-4 flex justify-center">
         <div className="space-x-4">
           <Link href="#perfil" className="text-white hover:text-yellow-500">Perfil</Link>
           <Link href="#experiencia" className="text-white hover:text-yellow-500">Experiencia</Link>
