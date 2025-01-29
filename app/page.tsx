@@ -2,13 +2,13 @@ import React from 'react';
 
 const Home: React.FC = () => {
   return (
-    <main className='p-6 max-w-2xl mx-auto bg-white rounded-lg shadow-md'>
+    <main className='p-6 max-w-4xl mx-auto bg-white rounded-lg shadow-md'>
       <h1 className='text-2xl font-bold mb-2 text-center'>Pedro Eduardo Donoso Ramírez</h1>
-      <p className='mt-2'>Desarrollador Full Stack | +56 9 5396 8887 | <a href="mailto:pedro.eduardo.donoso@gmail.com" className='text-blue-800'>pedro.eduardo.donoso@gmail.com</a></p>
+      <p className='mt-2 text-center'>Desarrollador Full Stack | +56 9 5396 8887 | <a href="mailto:pedro.eduardo.donoso@gmail.com" className='text-blue-800'>pedro.eduardo.donoso@gmail.com</a></p>
 
       <section className='mt-5'>
         <h2 className='text-2xl font-bold mb-2'>Perfil Profesional</h2>
-        <p>
+        <p className='text-justify'>
           Desarrollador Full Stack con amplia experiencia en la creación y mantenimiento de aplicaciones web
           y móviles. Especializado en la optimización de sitios web y tiendas en línea, con sólidas habilidades
           en administración de bases de datos. Comprometido con las buenas prácticas de desarrollo y el
@@ -20,7 +20,7 @@ const Home: React.FC = () => {
       <section className='mt-5'>
         <h2 className='text-2xl font-bold mb-2'>Experiencia Laboral</h2>
         <h3 className='mb-2 underline'>Desarrollador en <i>Agencia Amigo Pyme</i> (2022-2024)</h3>
-        <ul className='list-disc list-inside ml-5 mb-5'>
+        <ul className='list-disc list-inside ml-5 mb-5 text-justify'>
           <li>Desarrollo y mantenimiento de aplicaciones utilizando <strong>Kotlin Compose</strong> para asegurar un rendimiento óptimo y una experiencia de usuario fluida.</li>
           <li>Implementación de soluciones innovadoras en <strong>Angular 19</strong> para aplicaciones móviles multiplataforma de alta calidad.</li>
           <li>Administración y optimización de tiendas en línea con <strong>WooCommerce</strong>, mejorando la funcionalidad y la experiencia de compra.</li>
@@ -28,7 +28,7 @@ const Home: React.FC = () => {
         </ul>
 
         <h3 className='mb-2 underline'>Desarrollador en <i>Desafío Latam</i> (2019 - 2021)</h3>
-        <ul className='list-disc list-inside ml-5 mb-5'>
+        <ul className='list-disc list-inside ml-5 mb-5 text-justify'>
           <li>Creación y mantenimiento de aplicaciones en <strong>Java</strong> y <strong>PHP</strong>, asegurando la funcionalidad y escalabilidad de los sistemas.</li>
           <li>Desarrollo de aplicaciones móviles de alto rendimiento en <strong>Angular </strong> y <strong>React Native</strong>.</li>
           <li>Aplicación de <strong>Metodologías Ágiles</strong> con herramientas como GoodDay y BaseCamp para una planificación y ejecución eficiente de proyectos.</li>
@@ -37,7 +37,7 @@ const Home: React.FC = () => {
         </ul>
 
         <h3 className='mb-2 underline'>Desarrollador en <i>CCS</i> (2017 - 2019)</h3>
-        <ul className='list-disc list-inside ml-5 mb-5'>
+        <ul className='list-disc list-inside ml-5 mb-5 text-justify'>
           <li>Creación de aplicaciones móviles en <strong>Angular</strong> y <strong>React Native</strong>, enfocándome en la optimización del rendimiento y la experiencia del usuario.</li>
           <li>Colaboración en el diseño de interfaces de usuario atractivas y funcionales, utilizando <strong>componentes</strong> reutilizables.</li>
           <li>Implementación de <strong>APIs</strong> y servicios externos para enriquecer la funcionalidad de las aplicaciones.</li>
