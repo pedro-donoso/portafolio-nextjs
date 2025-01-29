@@ -45,9 +45,9 @@ const Home: React.FC = () => {
         </ul>
       </section>
 
-      <section>
-        <h2 id='formacion'>Formación</h2>
-        <ul>
+      <section className='mt-5' id='formacion'>
+        <h2 className='text-2xl font-bold mb-2'>Formación</h2>
+        <ul className='list-disc list-inside ml-5 mb-5 text-justify'>
           <li>Bootcamp Desarrollo de Apps Móviles Android - Talento Digital (2024)</li>
           <li>Bootcamp Desarrollo Ruby on Rails para Startups - Talento Digital (2023)</li>
           <li>Bootcamp Desarrollo de Apps Full Stack JavaScript - Talento Digital (2021)</li>
@@ -55,20 +55,20 @@ const Home: React.FC = () => {
         </ul>
       </section>
 
-      <section>
-        <h2 id='habilidades'>Habilidades</h2>
+      <section className='mt-5' id='habilidades'>
+        <h2 className='text-2xl font-bold mb-2'>Habilidades</h2>
         <h3>Lenguajes de Programación:</h3>
-        <p>Kotlin, Java, PHP, JavaScript, Ruby on Rails, Matlab</p>
+        <p className='list-disc list-inside ml-5 mb-5 text-justify'>Kotlin, Java, PHP, JavaScript, Ruby on Rails, Matlab</p>
         <h3>Desarrollo Frontend:</h3>
-        <p>HTML, CSS, Bootstrap, Tailwind, Angular, React, Vue, React Native</p>
+        <p className='list-disc list-inside ml-5 mb-5 text-justify'>HTML, CSS, Bootstrap, Tailwind, Angular, React, Vue, React Native</p>
         <h3>Desarrollo Backend:</h3>
-        <p>Rails, Node.js, Express</p>
+        <p className='list-disc list-inside ml-5 mb-5 text-justify'>Rails, Node.js, Express</p>
         <h3>Bases de Datos:</h3>
-        < p>PostgreSQL, SQLite, MongoDB</p>
+        <p className='list-disc list-inside ml-5 mb-5 text-justify'>PostgreSQL, SQLite, MongoDB</p>
         <h3>Platform as a Service (PaaS):</h3>
-        <p>Heroku, Netlify, Firebase</p>
+        <p className='list-disc list-inside ml-5 mb-5 text-justify'>Heroku, Netlify, Firebase</p>
         <h3>Control de Versiones:</h3>
-        <p>Git, GitHub, GitLab</p>
+        <p className='list-disc list-inside ml-5 mb-5 text-justify'>Git, GitHub, GitLab</p>
       </section>
 
       <section>
