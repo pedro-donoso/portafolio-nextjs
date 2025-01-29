@@ -161,23 +161,23 @@ const Home: React.FC = () => {
      <p className="list-disc list-inside ml-5 mb-5 text-justify">
       Kotlin, Java, PHP, JavaScript, Ruby on Rails, Matlab
      </p>
-     <h3>Desarrollo Frontend:</h3>
+     <h3 className="underline">Desarrollo Frontend:</h3>
      <p className="list-disc list-inside ml-5 mb-5 text-justify">
       HTML, CSS, Bootstrap, Tailwind, Angular, React, Vue, React Native
      </p>
-     <h3>Desarrollo Backend:</h3>
+     <h3 className="underline">Desarrollo Backend:</h3>
      <p className="list-disc list-inside ml-5 mb-5 text-justify">
       Rails, Node.js, Express
      </p>
-     <h3>Bases de Datos:</h3>
+     <h3 className="underline">Bases de Datos:</h3>
      <p className="list-disc list-inside ml-5 mb-5 text-justify">
       PostgreSQL, SQLite, MongoDB
      </p>
-     <h3>Platform as a Service (PaaS):</h3>
+     <h3 className="underline">Platform as a Service (PaaS):</h3>
      <p className="list-disc list-inside ml-5 mb-5 text-justify">
-      Heroku, Netlify, Firebase
+      Netlify, Vercel, Heroku, Firebase
      </p>
-     <h3>Control de Versiones:</h3>
+     <h3 className="underline">Control de Versiones:</h3>
      <p className="list-disc list-inside ml-5 mb-5 text-justify">
       Git, GitHub, GitLab
      </p>
