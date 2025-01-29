@@ -91,7 +91,7 @@ const Home: React.FC = () => {
      <ul className="list-disc list-inside ml-5 mb-5 text-justify">
       <li>
        <a
-        href="https://private-user-images.githubusercontent.com/68760595/384062082-55e07ed5-1219-4842-b12c-542dd2acfb7b.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgxNjYzODYsIm5iZiI6MTczODE2NjA4NiwicGF0aCI6Ii82ODc2MDU5NS8zODQwNjIwODItNTVlMDdlZDUtMTIxOS00ODQyLWIxMmMtNTQyZGQyYWNmYjdiLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTI5VDE1NTQ0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk4YzUzYmRlZjFhMDExZmE2YTY2MzRkMjBjZjMyYWI5ODZjOGY5Y2YzNWM1NDFiNDUwMTI2OTc5YzUzN2NhNDEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.v9Y22lbBWwqSJ5dmrM-hQllKrhaG0YTwdv7WpnPiNjQ"
+        href="https://drive.google.com/file/d/13R10YuwLjLOfk9wHSwEvkfS0Dwas5xAn/view?usp=sharing"
         target="_blank"
         className="text-blue-800 underline"
        >
