@@ -8,12 +8,12 @@ const Header: React.FC = () => {
     PEDRO EDUARDO DONOSO RAMÍREZ
    </h1>
    <p className="mt-2 text-center text-lg">
-    Desarrollador Full Stack | 📱{" "}
-    <a href="https://wa.me/56953968887" className="text-blue-800">
-     +56 9 5396 8887
+    Desarrollador Full Stack |
+    <a href="https://wa.me/56953968887" className="text-blue-800 mx-2">
+     📱 +56 9 5396 8887
     </a>{" "}
     |{" "}
-    <a href="mailto:pedro.eduardo.donoso@gmail.com" className="text-blue-800">
+    <a href="mailto:pedro.eduardo.donoso@gmail.com" className="text-blue-800 mx-2">
      📧 pedro.eduardo.donoso@gmail.com
     </a>
    </p>
