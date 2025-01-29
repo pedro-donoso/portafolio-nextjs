@@ -4,8 +4,7 @@ import React from 'react';
 const Home: React.FC = () => {
   return (
    <main className="px-10 py-10 max-w-4xl mx-auto bg-white rounded-lg shadow-md">
-    
-	<Header />
+    <Header />
 
     <section className="mt-5" id="experiencia">
      <h2 className="text-xl font-bold mb-2">Experiencia Laboral</h2>
@@ -92,7 +91,7 @@ const Home: React.FC = () => {
      <ul className="list-disc list-inside ml-5 mb-5 text-justify">
       <li>
        <a
-        href="https://eligemejor.sence.cl/PerfilNatural/DescargarCertificado?idCurso=RLAB-23-02-13-0055-1&idFederacion=5&rutAsistido="
+        href="https://private-user-images.githubusercontent.com/68760595/384062082-55e07ed5-1219-4842-b12c-542dd2acfb7b.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzgxNjYzODYsIm5iZiI6MTczODE2NjA4NiwicGF0aCI6Ii82ODc2MDU5NS8zODQwNjIwODItNTVlMDdlZDUtMTIxOS00ODQyLWIxMmMtNTQyZGQyYWNmYjdiLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTI5VDE1NTQ0NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk4YzUzYmRlZjFhMDExZmE2YTY2MzRkMjBjZjMyYWI5ODZjOGY5Y2YzNWM1NDFiNDUwMTI2OTc5YzUzN2NhNDEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.v9Y22lbBWwqSJ5dmrM-hQllKrhaG0YTwdv7WpnPiNjQ"
         target="_blank"
         className="text-blue-800 underline"
        >
@@ -101,7 +100,7 @@ const Home: React.FC = () => {
       </li>
       <li>
        <a
-        href="https://eligemejor.sence.cl/PerfilNatural/DescargarCertificado?idCurso=BOTIC-SOFOF-22-02-13-0051&idFederacion=5&rutAsistido="
+        href="https://www.acreditta.com/credential/18a72075-9c30-400c-85a4-20c9e84da025?utm_source=copy&resource_type=badge&resource=18a72075-9c30-400c-85a4-20c9e84da025"
         target="_blank"
         className="text-blue-800 underline"
        >
@@ -110,7 +109,7 @@ const Home: React.FC = () => {
       </li>
       <li>
        <a
-        href="https://eligemejor.sence.cl/PerfilNatural/DescargarCertificado?idCurso=BOTIC-SOFOF-20-14-13-0006&idFederacion=5&rutAsistido="
+        href="https://www.credly.com/badges/d90a5f3d-dbd6-4242-b760-8236a9f44b5d?source=linked_in_profile"
         target="_blank"
         className="text-blue-800 underline"
        >
@@ -121,7 +120,7 @@ const Home: React.FC = () => {
 
       <li>
        <a
-        href="https://eligemejor.sence.cl/PerfilNatural/DescargarCertificado?idCurso=BOTIC-SOFOF-19-12-13-0050&idFederacion=5&rutAsistido="
+        href="https://user-images.githubusercontent.com/68760595/144440117-31e060f7-a684-49dd-81d4-e4839b7756c1.jpeg"
         target="_blank"
         className="text-blue-800 underline"
        >
