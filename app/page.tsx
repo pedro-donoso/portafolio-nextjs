@@ -3,7 +3,7 @@ import React from 'react';
 const Home: React.FC = () => {
   return (
     <main className='px-16 py-10 max-w-4xl mx-auto bg-white rounded-lg shadow-md'>
-      <h1 className='text-2xl font-bold mb-2 text-center'>Pedro Eduardo Donoso Ramírez</h1>
+      <h1 className='text-2xl font-bold mb-2 text-center'>PEDRO EDUARDO DONOSO RAMÍREZ</h1>
       <p className='mt-2 text-center'>Desarrollador Full Stack | +56 9 5396 8887 | <a href="mailto:pedro.eduardo.donoso@gmail.com" className='text-blue-800'>pedro.eduardo.donoso@gmail.com</a></p>
 
       <section className='mt-5' id='perfil'>
@@ -71,17 +71,17 @@ const Home: React.FC = () => {
         <p className='list-disc list-inside ml-5 mb-5 text-justify'>Git, GitHub, GitLab</p>
       </section>
 
-      <section>
-        <h2 id='proyectos'>Proyectos Destacados</h2>
+      <section className='mt-5' id='proyectos'>
+        <h2 className='text-2xl font-bold mb-2'>Proyectos Destacados</h2>
         <ul>
-          <li>Repositorio de Códigos: <a href="https://github.com/tu_usuario" target="_blank">GitHub</a></li>
-          <li>Portafolio de Proyectos: <a href="https://tu_portafolio.netlify.app" target="_blank">Netlify</a></li>
+          <li>Repositorio de Códigos: <a href="https://github.com/pedro-donoso" target="_blank" className='text-blue-800 underline'>GitHub</a></li>
+          <li>Portafolio de Proyectos: <a href="https://app.netlify.com/teams/pedro-donoso/sites" target="_blank" className='text-blue-800 underline'>Netlify</a></li>
         </ul>
       </section>
 
-      <section>
-        <h2 id='redes'>Redes</h2>
-        <p><a href="https://www.linkedin.com/in/tu_perfil" target="_blank">LinkedIn</a></p>
+      <section className='mt-5' id='redes'>
+        <h2 className='text-2xl font-bold mb-2'>Redes</h2>
+        <p><a href="https://www.linkedin.com/in/pedro-donoso-frontend/" target="_blank" className='text-blue-800 underline'>LinkedIn</a></p>
       </section>
     </main>
   );
