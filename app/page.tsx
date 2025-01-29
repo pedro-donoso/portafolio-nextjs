@@ -206,20 +206,17 @@ const Home: React.FC = () => {
         Netlify
        </a>
       </li>
+      <li>
+       Proyectos Deploys:{" "}
+       <a
+        href="https://vercel.com/pedrodonosos-projects"
+        target="_blank"
+        className="text-blue-800 underline"
+       >
+        Vercel
+       </a>
+      </li>
      </ul>
-    </section>
-
-    <section className="mt-5" id="redes">
-     <h2 className="text-xl font-bold mb-2">Redes</h2>
-     <p>
-      <a
-       href="https://www.linkedin.com/in/pedro-donoso-frontend/"
-       target="_blank"
-       className="text-blue-800 underline"
-      >
-       LinkedIn
-      </a>
-     </p>
     </section>
    </main>
   );
