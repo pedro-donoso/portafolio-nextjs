@@ -57,7 +57,7 @@ const Home: React.FC = () => {
 
       <section className='mt-5' id='habilidades'>
         <h2 className='text-xl font-bold mb-2'>Habilidades</h2>
-        <h3>Lenguajes de Programación:</h3>
+        <h3 className='underline'>Lenguajes de Programación:</h3>
         <p className='list-disc list-inside ml-5 mb-5 text-justify'>Kotlin, Java, PHP, JavaScript, Ruby on Rails, Matlab</p>
         <h3>Desarrollo Frontend:</h3>
         <p className='list-disc list-inside ml-5 mb-5 text-justify'>HTML, CSS, Bootstrap, Tailwind, Angular, React, Vue, React Native</p>
