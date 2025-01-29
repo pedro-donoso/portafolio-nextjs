@@ -6,7 +6,7 @@ const Home: React.FC = () => {
       <h1 className='text-2xl font-bold mb-2 text-center'>Pedro Eduardo Donoso Ramírez</h1>
       <p className='mt-2 text-center'>Desarrollador Full Stack | +56 9 5396 8887 | <a href="mailto:pedro.eduardo.donoso@gmail.com" className='text-blue-800'>pedro.eduardo.donoso@gmail.com</a></p>
 
-      <section className='mt-5'>
+      <section className='mt-5' id='perfil'>
         <h2 className='text-2xl font-bold mb-2'>Perfil Profesional</h2>
         <p className='text-justify'>
           Desarrollador Full Stack con amplia experiencia en la creación y mantenimiento de aplicaciones web
@@ -17,7 +17,7 @@ const Home: React.FC = () => {
         </p>
       </section>
 
-      <section className='mt-5'>
+      <section className='mt-5' id='experiencia'>
         <h2 className='text-2xl font-bold mb-2'>Experiencia Laboral</h2>
         <h3 className='mb-2 underline'>Desarrollador en <i>Agencia Amigo Pyme</i> (2022-2024)</h3>
         <ul className='list-disc list-inside ml-5 mb-5 text-justify'>
@@ -46,7 +46,7 @@ const Home: React.FC = () => {
       </section>
 
       <section>
-        <h2>Formación</h2>
+        <h2 id='formacion'>Formación</h2>
         <ul>
           <li>Bootcamp Desarrollo de Apps Móviles Android - Talento Digital (2024)</li>
           <li>Bootcamp Desarrollo Ruby on Rails para Startups - Talento Digital (2023)</li>
@@ -56,7 +56,7 @@ const Home: React.FC = () => {
       </section>
 
       <section>
-        <h2>Habilidades</h2>
+        <h2 id='habilidades'>Habilidades</h2>
         <h3>Lenguajes de Programación:</h3>
         <p>Kotlin, Java, PHP, JavaScript, Ruby on Rails, Matlab</p>
         <h3>Desarrollo Frontend:</h3>
@@ -72,7 +72,7 @@ const Home: React.FC = () => {
       </section>
 
       <section>
-        <h2>Proyectos Destacados</h2>
+        <h2 id='proyectos'>Proyectos Destacados</h2>
         <ul>
           <li>Repositorio de Códigos: <a href="https://github.com/tu_usuario" target="_blank">GitHub</a></li>
           <li>Portafolio de Proyectos: <a href="https://tu_portafolio.netlify.app" target="_blank">Netlify</a></li>
@@ -80,7 +80,7 @@ const Home: React.FC = () => {
       </section>
 
       <section>
-        <h2>Redes</h2>
+        <h2 id='redes'>Redes</h2>
         <p><a href="https://www.linkedin.com/in/tu_perfil" target="_blank">LinkedIn</a></p>
       </section>
     </main>
