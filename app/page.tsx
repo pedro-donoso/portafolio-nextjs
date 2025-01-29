@@ -2,7 +2,7 @@ import React from 'react';
 
 const Home: React.FC = () => {
   return (
-    <main className='p-6 max-w-4xl mx-auto bg-white rounded-lg shadow-md'>
+    <main className='px-16 py-10 max-w-4xl mx-auto bg-white rounded-lg shadow-md'>
       <h1 className='text-2xl font-bold mb-2 text-center'>Pedro Eduardo Donoso Ramírez</h1>
       <p className='mt-2 text-center'>Desarrollador Full Stack | +56 9 5396 8887 | <a href="mailto:pedro.eduardo.donoso@gmail.com" className='text-blue-800'>pedro.eduardo.donoso@gmail.com</a></p>
 
