@@ -3,7 +3,7 @@
 ### 1. clonar repositorio:
 
 ```
-git clone
+git clone https://github.com/pedro-donoso/portafolio-nextjs.git
 ```
 
 ### 2. instalar dependencias:
