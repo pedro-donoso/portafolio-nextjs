@@ -19,8 +19,14 @@ npm -v
 npm install
 ```
 
-### 3. Verificar
+### 4. Verificar
 
 ```
 ls
+```
+
+### 5. Ejecutar:
+
+```
+npm run dev
 ```
