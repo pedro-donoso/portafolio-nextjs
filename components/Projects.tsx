@@ -16,7 +16,7 @@ function Projects() {
       demo: "https://developers-courses.netlify.app/",
     },
     {
-      title: "Proyecto 3",
+      title: "Tarjetas Animales",
       description:
         "Proyecto donde el usuario elige un animal, los años, puede agregar...",
       github: "https://github.com/pedro-donoso/animalada-salvajes",
