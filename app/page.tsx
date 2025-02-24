@@ -6,7 +6,7 @@ import React from 'react';
 
 const Home: React.FC = () => {
   return (
-   <main className="px-10 py-10 max-w-4xl mx-auto bg-white rounded-lg shadow-md">
+   <main className="px-10 py-10 mx-auto max-w-4xl bg-white rounded-lg shadow-md">
     <Header />
     <Experience />
     <Certificates />
@@ -14,7 +14,7 @@ const Home: React.FC = () => {
 
 
     <section className="mt-5" id="proyectos">
-     <h2 className="text-xl font-bold mb-2">Proyectos Destacados</h2>
+     <h2 className="mb-2 text-xl font-bold">Proyectos Destacados</h2>
      <ul>
       <li>
        Repositorio de Códigos:{" "}
@@ -24,26 +24,6 @@ const Home: React.FC = () => {
         className="text-blue-800 underline"
        >
         GitHub
-       </a>
-      </li>
-      <li>
-       Portafolio de Proyectos:{" "}
-       <a
-        href="https://app.netlify.com/teams/pedro-donoso/sites"
-        target="_blank"
-        className="text-blue-800 underline"
-       >
-        Netlify
-       </a>
-      </li>
-      <li>
-       Proyectos Deploys:{" "}
-       <a
-        href="https://vercel.com/pedrodonosos-projects"
-        target="_blank"
-        className="text-blue-800 underline"
-       >
-        Vercel
        </a>
       </li>
      </ul>
