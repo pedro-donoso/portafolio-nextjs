@@ -3,7 +3,7 @@ import React from 'react'
 function Projects() {
   const projects = [
     {
-      title: "Estadísticas SuperHeroes",
+      title: "SuperHeroes",
       description:
         "Cards con imagenes de Api de superheroes su nombre y...",
       github: "https://github.com/pedro-donoso/angular-proyecto",
