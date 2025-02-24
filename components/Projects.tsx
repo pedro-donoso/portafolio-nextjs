@@ -22,6 +22,27 @@ function Projects() {
       github: "https://github.com/pedro-donoso/animalada-salvajes",
       demo: "https://animales-tarjetas.netlify.app/",
     },
+    {
+      title: "Lista de Tareas",
+      description:
+        "TODO list en React JS, permite al usuario agregar nuevas tareas...",
+      github: "https://github.com/pedro-donoso/react",
+      demo: "https://react-lista-de-tareas.netlify.app/",
+    },
+    {
+      title: "Carro de Compras",
+      description:
+        "El usuario puede ver los productos agregados; con su ID, Nº...",
+      github: "https://github.com/pedro-donoso/shopping-cart",
+      demo: "https://carro-de-compras-en-react.netlify.app/",
+    },
+    {
+      title: "Tarjetas Animales",
+      description:
+        "Proyecto donde el usuario elige un animal, los años, puede agregar...",
+      github: "https://github.com/pedro-donoso/animalada-salvajes",
+      demo: "https://animales-tarjetas.netlify.app/",
+    },
   ];
 
   return (
