@@ -10,7 +10,7 @@ function Projects() {
       demo: "https://angular19-proyecto.netlify.app/",
     },
     {
-      title: "Proyecto 2",
+      title: "Cursos Programación",
       description: "Repositorio de pruebas sobre cursos de programación...",
       github: "https://github.com/pedro-donoso/Cursos",
       demo: "https://developers-courses.netlify.app/",
@@ -18,9 +18,9 @@ function Projects() {
     {
       title: "Proyecto 3",
       description:
-        "Descripción breve del proyecto 3. Tecnologías utilizadas y objetivos alcanzados.",
-      github: "https://github.com/pedro-donoso/project3",
-      demo: "https://project3-demo.com",
+        "Proyecto donde el usuario elige un animal, los años, puede agregar...",
+      github: "https://github.com/pedro-donoso/animalada-salvajes",
+      demo: "https://animales-tarjetas.netlify.app/",
     },
   ];
 
