@@ -37,11 +37,11 @@ function Projects() {
       demo: "https://carro-de-compras-en-react.netlify.app/",
     },
     {
-      title: "Tarjetas Animales",
+      title: "Reserva de Horas",
       description:
-        "Proyecto donde el usuario elige un animal, los años, puede agregar...",
-      github: "https://github.com/pedro-donoso/animalada-salvajes",
-      demo: "https://animales-tarjetas.netlify.app/",
+        "Permite al usuario agendar horas médicas mediante formulario...",
+      github: "https://github.com/pedro-donoso/formulario",
+      demo: "https://reserva-horas.netlify.app/",
     },
   ];
 
