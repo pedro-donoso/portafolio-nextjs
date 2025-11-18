@@ -5,6 +5,33 @@ const Experience: React.FC = () => {
   <section className="mt-5" id="experiencia">
    <h2 className="text-xl font-bold mb-2">Experiencia Laboral</h2>
    <h3 className="mb-2 underline">
+
+    Soporte SAP en <i>Lion Consulting</i> (2025)
+   </h3>
+   <ul className="list-disc list-inside ml-5 mb-5 text-justify">
+    <li>
+     Aprendizaje de ecosistema{" "}
+     <strong>SAP Fiori, SAP Hana, SAP Integration Suite</strong> como consultor.
+    </li>
+    <li>
+     Soporte mesa de ayuda para atender directamente al cliente y entregar solución a problemas.
+    </li>
+    <li>
+     Documentación de procedimientos aprendidos en{" "}
+     <strong>Soporte, Mesa de ayuda</strong>.
+    </li>
+    <li>
+     Cumplimiento de solicitudes administrativas de gerencia.
+    </li>
+      <li>
+     Participación en{" "}
+     <strong>Capacitación y Cursos de formación</strong>
+    </li>
+   </ul>
+
+   <h3 className="mb-2 underline">
+
+
     Desarrollador en <i>Agencia Amigo Pyme</i> (2022-2024)
    </h3>
    <ul className="list-disc list-inside ml-5 mb-5 text-justify">
