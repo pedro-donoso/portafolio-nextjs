@@ -83,29 +83,6 @@ const Experience: React.FC = () => {
      experiencia del usuario.
     </li>
    </ul>
-
-   <h3 className="mb-2 underline">
-    Desarrollador en <i>CCS</i> (2017 - 2019)
-   </h3>
-   <ul className="list-disc list-inside ml-5 mb-5 text-justify">
-    <li>
-     Creación de aplicaciones móviles en <strong>Angular</strong> y{" "}
-     <strong>React Native</strong>, enfocándome en la optimización del
-     rendimiento y la experiencia del usuario.
-    </li>
-    <li>
-     Colaboración en el diseño de interfaces de usuario atractivas y
-     funcionales, utilizando <strong>componentes</strong> reutilizables.
-    </li>
-    <li>
-     Implementación de <strong>APIs</strong> y servicios externos para
-     enriquecer la funcionalidad de las aplicaciones.
-    </li>
-    <li>
-     Participación activa en reuniones de <strong>planificación</strong> y
-     revisión de proyectos bajo metodologías ágiles (Scrum).
-    </li>
-   </ul>
   </section>
  );
 };
