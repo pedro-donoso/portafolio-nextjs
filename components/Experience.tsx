@@ -80,7 +80,7 @@ const Experience: React.FC = () => {
     </li>
     <li>
      Diseño de interfaces de usuario en <strong>Adobe XD</strong>, mejorando la
-     experiencia del usuario
+     experiencia del usuario.
     </li>
    </ul>
   </section>
